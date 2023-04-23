@@ -21,7 +21,7 @@ AS A USER I WANT TO BE ABLE TO ADD A PROJECT THAT CAN BE BROKEN INTO SMALLER TAS
 - Connect session Sequelize
 - Express session
 - Dotenv
-- Heroku
+- Render
 
 ## Authors
 
@@ -29,11 +29,8 @@ Callan Keesling, Luis Gutierrez, Seungjin Lee, and Stephanie Rodriguez
 
 ## 🔗 Link
 
-Github repository
-[[Github](https://github.com/Callank21/Self-Management-App)]
-
-Heroku
-[[Heroku](https://self-management-app.herokuapp.com/)]
+Render
+[[Render](https://self-management-app.onrender.com)]
 
 ## Screenshots
 
