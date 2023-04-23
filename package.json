@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Callank21/Self-Management-App.git"
+    "url": "git+https://github.com/infinissible/self-management-app"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Callank21/Self-Management-App/issues"
   },
-  "homepage": "https://github.com/Callank21/Self-Management-App#readme",
+  "homepage": "https://self-management-app.onrender.com",
   "dependencies": {
     "autoprefixer": "^10.4.7",
     "bcrypt": "^5.0.1",
