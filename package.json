@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/Callank21/Self-Management-App/issues"
   },
-  "homepage": "https://self-management-app.onrender.com",
+  "homepage": "https://self-manage-app.herokuapp.com/",
   "dependencies": {
     "autoprefixer": "^10.4.7",
     "bcrypt": "^5.0.1",
