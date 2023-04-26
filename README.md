@@ -30,7 +30,7 @@ Callan Keesling, Luis Gutierrez, Seungjin Lee, and Stephanie Rodriguez
 ## 🔗 Link
 
 Render
-[[Render](https://self-management-app.onrender.com)]
+[[Heroku](https://self-manage-app.herokuapp.com/)]
 
 ## Screenshots
 
